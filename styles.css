@@ -1,0 +1,33 @@
+#main {
+    width:80%;
+    border:0px solid rgb(0, 0, 0);
+}
+        
+.month {
+    background-color:rgb(5, 153, 190);
+    font:bold 12px verdana;
+    color:rgb(255, 254, 254);
+}
+        
+.daysofweek {
+    background-color:rgb(2, 55, 80);
+    font:bold 12px verdana;
+    color:rgb(255, 253, 253);
+}
+        
+.days {
+    font-size: 12px;
+    font-family:verdana;
+    color:black;
+    background-color: lightyellow;
+    padding: 2px;
+        }
+        
+.days #today{
+    font-weight: bold;
+    color: rgb(255, 8, 0);
+}
+
+#logo{
+    background-color: cyan;
+}
