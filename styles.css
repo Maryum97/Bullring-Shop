@@ -1,6 +1,8 @@
 #main {
-    width:80%;
+    width:100%;
     border:0px solid rgb(0, 0, 0);
+    margin-left: 20pt;
+    margin-right: 20pt
 }
         
 .month {
@@ -29,5 +31,9 @@
 }
 
 #logo{
+    background-color: cyan;
+}
+
+#footer {
     background-color: cyan;
 }
